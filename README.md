@@ -26,7 +26,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-<br>
+
+<br />
 
 ---
 
@@ -38,8 +39,8 @@
 [<img align="left" alt="APACHE" width="90px" height="40px" src="https://i.postimg.cc/VvHKgtGj/download.png" />][apache]
 [<img align="left" alt="MARIADB" width="90px" height="40px" src="https://i.postimg.cc/wv8FbHQG/Maria-DB-Logo.png" />][mariadb]
 [<img align="left" alt="PHP" width="90px" height="40px" src="https://i.postimg.cc/RhGRFt5k/100px-PHP-logo-svg.png" />][php]
-<br/>
-<br/>
+
+<br />
 
 ---
 
@@ -52,7 +53,8 @@
 [<img align="left" alt="JOOMLA" width="90px" height="30" src="https://i.postimg.cc/63hFj5y6/300px-Joomla-Logo-svg.png" />][joomla]
 [<img align="left" alt="DRUPAL" width="90px" height="30" src="https://i.postimg.cc/8kK0jYvY/241px-Drupal-wordmark-svg.png" />][drupal]
 [<img align="left" alt="INVOICEPLANE" width="90px" height="30" src="https://i.postimg.cc/wMyctw8K/inv-logo.png" />][invoiceplane]
-<br/>
+
+<br />
 
 ---
 
