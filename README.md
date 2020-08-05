@@ -2,7 +2,7 @@
 
 ## I'm a Libtechnophile, Linux Geek, and FOSS advocate!
 - 🔭 I’m currently doing M.Phil at DLISc, University of Calicut
-- 🌱 I’m focusing on Open-source projects used in libraries 🤣
+- 🌱 I’m focusing on Free and Open-Source Software used in libraries
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and cooking
