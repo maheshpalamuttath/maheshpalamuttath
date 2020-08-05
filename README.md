@@ -65,14 +65,18 @@ https://www.linkedin.com/in/mahesh-palamuttath-897b80177/https://www.linkedin.co
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maheshpalamuttath&show_icons=true&hide_border=true" />
 
-[linux]: https://codeSTACKr.com
-[debian]: https://twitter.com/codeSTACKr
-[ubuntu]: https://youtube.com/codeSTACKr
-[kohails]: https://instagram.com/codeSTACKr
-[dspace]: https://linkedin.com/in/codeSTACKr
-[dspace]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[moodle]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[wordpress]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[joomla]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[drupal]:
-[]
+[website]: https://maheshpalamuttath.info/
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/channel/UCRDxJR81Z6mcA86yK1tDQgQ?view_as=subscriber
+[instagram]: https://www.instagram.com/mahesh_pandallur/
+[linkedin]: https://www.linkedin.com/in/mahesh-palamuttath-897b80177/
+[linux]: https://www.linux.org/
+[debian]: https://www.debian.org/
+[ubuntu]: https://ubuntu.com/
+[kohails]: https://koha-community.org/
+[dspace]: https://duraspace.org/dspace/
+[moodle]: https://moodle.org/
+[wordpress]: https://wordpress.com
+[joomla]: https://www.joomla.org/
+[drupal]: https://www.drupal.org/
+[invoiceplane]: https://www.invoiceplane.org/
