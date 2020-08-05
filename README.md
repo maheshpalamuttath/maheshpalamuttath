@@ -19,7 +19,7 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vstudio]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][vstudio]
@@ -30,7 +30,7 @@
 
 ---
 
-### Evironment I work:
+### Evironment I work in:
 
 [<img align="left" alt="LINUX" width="40px" src="https://i.postimg.cc/L4Dnft4w/150px-Tux-svg.png" />][linux]
 [<img align="left" alt="DEBIAN" width="30px" src="https://i.postimg.cc/9XgcCJQm/100px-Debian-Open-Logo-svg.png" />][debian]
@@ -39,6 +39,19 @@
 [<img align="left" alt="MARIADB" width="90px" src="https://i.postimg.cc/wv8FbHQG/Maria-DB-Logo.png" />][mariadb]
 [<img align="left" alt="PHP" width="90px" src="https://i.postimg.cc/RhGRFt5k/100px-PHP-logo-svg.png" />][php]
 <br/>
+<br/>
+
+---
+
+### Software's I work with:
+
+[<img align="left" alt="KOHA" width="90px" src="https://i.postimg.cc/W1MnRKbH/Koha-logo.png" />][kohails]
+[<img align="left" alt="DSPACE" width="90px" src="https://i.postimg.cc/HsbXfcTt/DSpace-transparent-logo.png" />][dspace]
+[<img align="left" alt="MOODLE" width="90px" src="https://i.postimg.cc/KzL8RTqq/1920px-Moodle-logo-svg.png" />][moodle]
+[<img align="left" alt="WORDPRESS" width="90px" src="https://i.postimg.cc/dVLvhdD2/240px-Word-Press-logo-svg.png" />][wordpress]
+[<img align="left" alt="JOOMLA" width="90px" src="https://i.postimg.cc/63hFj5y6/300px-Joomla-Logo-svg.png" />][joomla]
+[<img align="left" alt="DRUPAL" width="90px" src="https://i.postimg.cc/8kK0jYvY/241px-Drupal-wordmark-svg.png" />][drupal]
+[<img align="left" alt="INVOICEPLANE" width="90px" src="https://i.postimg.cc/wMyctw8K/inv-logo.png" />][invoiceplane]
 <br/>
 
 ---
