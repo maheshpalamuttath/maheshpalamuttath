@@ -1,11 +1,11 @@
 ### Hi there, I'm Mahesh Palamuttath - [website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+## I'm a Libtechnophile, Linux Geek, and FOSS advocate! [website]
+- 🔭 I’m currently doing M.Phil at DLISc, University of Calicut
+- 🌱 I’m focusing on Open-source projects used in libraries 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to travel and cooking
 
 ### Connect with me:
 
