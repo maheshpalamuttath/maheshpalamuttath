@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahesh Palamuttath - [website] 👋
 
-## I'm a Libtechnophile, Linux Geek, and FOSS advocate! [website]
+## I'm a Libtechnophile, Linux Geek, and FOSS advocate!
 - 🔭 I’m currently doing M.Phil at DLISc, University of Calicut
 - 🌱 I’m focusing on Open-source projects used in libraries 🤣
 - 👯 I’m looking to collaborate with other content creators
