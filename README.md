@@ -86,3 +86,6 @@
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[apache]: https://httpd.apache.org/
+[mariadb]: https://mariadb.org/
+[php]: https://www.php.net/
