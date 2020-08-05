@@ -39,7 +39,8 @@
 [<img align="left" alt="APACHE" width="90px" src="https://i.postimg.cc/tgLmQFpD/httpd-logo-wide-new.png" />][apache]
 [<img align="left" alt="MARIADB" width="90px" src="https://i.postimg.cc/wv8FbHQG/Maria-DB-Logo.png" />][mariadb]
 [<img align="left" alt="PHP" width="90px" src="https://i.postimg.cc/RhGRFt5k/100px-PHP-logo-svg.png" />][php]
-<br>
+<br/>
+<br/>
 
 ---
 
