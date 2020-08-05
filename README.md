@@ -33,11 +33,11 @@
 ### Evironment I work in:
 
 [<img align="left" alt="LINUX" width="40px" height="40px" src="https://i.postimg.cc/L4Dnft4w/150px-Tux-svg.png" />][linux]
-[<img align="left" alt="DEBIAN" width="30px" " height="40px" src="https://i.postimg.cc/9XgcCJQm/100px-Debian-Open-Logo-svg.png" />][debian]
-[<img align="left" alt="UBUNTU" width="90px" " height="40px" src="https://i.postimg.cc/pdCgkL9W/250px-Logo-ubuntu-no-r-black-orange-hex-svg.png" />][ubuntu]
-[<img align="left" alt="APACHE" width="90px" " height="40px" src="https://i.postimg.cc/VvHKgtGj/download.png" />][apache]
-[<img align="left" alt="MARIADB" width="90px" " height="40px" src="https://i.postimg.cc/wv8FbHQG/Maria-DB-Logo.png" />][mariadb]
-[<img align="left" alt="PHP" width="90px" " height="40px" src="https://i.postimg.cc/RhGRFt5k/100px-PHP-logo-svg.png" />][php]
+[<img align="left" alt="DEBIAN" width="30px" height="40px" src="https://i.postimg.cc/9XgcCJQm/100px-Debian-Open-Logo-svg.png" />][debian]
+[<img align="left" alt="UBUNTU" width="90px" height="40px" src="https://i.postimg.cc/pdCgkL9W/250px-Logo-ubuntu-no-r-black-orange-hex-svg.png" />][ubuntu]
+[<img align="left" alt="APACHE" width="90px" height="40px" src="https://i.postimg.cc/VvHKgtGj/download.png" />][apache]
+[<img align="left" alt="MARIADB" width="90px" height="40px" src="https://i.postimg.cc/wv8FbHQG/Maria-DB-Logo.png" />][mariadb]
+[<img align="left" alt="PHP" width="90px" height="40px" src="https://i.postimg.cc/RhGRFt5k/100px-PHP-logo-svg.png" />][php]
 <br/>
 <br/>
 
