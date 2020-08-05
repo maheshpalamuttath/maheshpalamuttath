@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/mahesh-palamuttath-897b80177/https://www.linkedin.com/in/mahesh-palamuttath-897b80177/### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -17,53 +17,45 @@ https://www.linkedin.com/in/mahesh-palamuttath-897b80177/https://www.linkedin.co
 
 <br />
 
-### Languages, Tools and Software's I know:
+### Languages and Tools:
 
-[<img align="left" alt="LINUX" width="40px" src="https://i.postimg.cc/L4Dnft4w/150px-Tux-svg.png" />][linux]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-[<img align="left" alt="DEBIAN" width="30px" src="https://i.postimg.cc/9XgcCJQm/100px-Debian-Open-Logo-svg.png" />][debian]
-
-[<img align="left" alt="UBUNTU" width="90px" src="https://i.postimg.cc/pdCgkL9W/250px-Logo-ubuntu-no-r-black-orange-hex-svg.png" />][ubuntu]
-
-[<img align="left" alt="KOHA" width="90px" src="https://i.postimg.cc/W1MnRKbH/Koha-logo.png" />][kohails]
-
-[<img align="left" alt="DSPACE" width="90px" src="https://i.postimg.cc/HsbXfcTt/DSpace-transparent-logo.png" />][dspace]
-
-[<img align="left" alt="MOODLE" width="90px" src="https://i.postimg.cc/KzL8RTqq/1920px-Moodle-logo-svg.png" />][moodle]
-
-[<img align="left" alt="WORDPRESS" width="90px" src="https://i.postimg.cc/dVLvhdD2/240px-Word-Press-logo-svg.png" />][wordpress]
-
-[<img align="left" alt="JOOMLA" width="90px" src="https://i.postimg.cc/63hFj5y6/300px-Joomla-Logo-svg.png" />][joomla]
-
-[<img align="left" alt="DRUPAL" width="90px" src="https://i.postimg.cc/8kK0jYvY/241px-Drupal-wordmark-svg.png" />][drupal]
-
-[<img align="left" alt="INVOICEPLANE" width="90px" src="https://i.postimg.cc/wMyctw8K/inv-logo.png" />][invoiceplane]
-<br>
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Install OpenJDK 8 on Debian 10 (Buster)](https://libtechnophile.blogspot.com/2020/08/install-openjdk-8-on-debian-10-buster.html)
-- [Install pgAdmin 4 on Debian/Ubuntu](https://libtechnophile.blogspot.com/2020/08/install-pgadmin-4-on-debianubuntu.html)
-- [Install PostgreSQL on Debian ](https://libtechnophile.blogspot.com/2020/08/install-postgresql-on-debian.html)
-- [Install Moodle LMS on Debian/Ubuntu](https://libtechnophile.blogspot.com/2020/07/install-moodle-lms-on-debianubuntu.html)
-- [Using Google Drive on Debian/Ubuntu with Rclone](https://libtechnophile.blogspot.com/2020/07/using-google-drive-on-debianubuntu-with.html)
-<!-- BLOG-POST-LIST:END -->
+<br />
+<br />
 
 ---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Install Koha ILS on Ubuntu 20.04 LTS | Fixing Perl Modules Missing](https://www.youtube.com/watch?v=JvXBfYFs4Q8)
-- [How to Use Koha Offline Circulation Tool](https://www.youtube.com/watch?v=wARQEyiA8vA)
-- [Using Python Script Convert MARC files to Excel Spreadsheets and Vice-Versa](https://www.youtube.com/watch?v=S0jbCZ2fY9E)
-- [In Out Management System with Koha ILMS](https://www.youtube.com/watch?v=dxVHHeCZaAM)
-- [Configure Koha coverflow plugin](https://www.youtube.com/watch?v=qIYfiVmFEF4)
+
 <!-- YOUTUBE:END -->
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maheshpalamuttath&show_icons=true&hide_border=true" />
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
