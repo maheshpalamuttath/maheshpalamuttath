@@ -47,11 +47,11 @@
 
 [<img align="left" alt="KOHA" width="90px" height="40" src="https://i.postimg.cc/W1MnRKbH/Koha-logo.png" />][kohails]
 [<img align="left" alt="DSPACE" width="90px" height="40" src="https://i.postimg.cc/HsbXfcTt/DSpace-transparent-logo.png" />][dspace]
-[<img align="left" alt="MOODLE" width="90px" src="https://i.postimg.cc/KzL8RTqq/1920px-Moodle-logo-svg.png" />][moodle]
-[<img align="left" alt="WORDPRESS" width="90px" src="https://i.postimg.cc/dVLvhdD2/240px-Word-Press-logo-svg.png" />][wordpress]
-[<img align="left" alt="JOOMLA" width="90px" src="https://i.postimg.cc/63hFj5y6/300px-Joomla-Logo-svg.png" />][joomla]
-[<img align="left" alt="DRUPAL" width="90px" src="https://i.postimg.cc/8kK0jYvY/241px-Drupal-wordmark-svg.png" />][drupal]
-[<img align="left" alt="INVOICEPLANE" width="90px" src="https://i.postimg.cc/wMyctw8K/inv-logo.png" />][invoiceplane]
+[<img align="left" alt="MOODLE" width="90px" height="40" src="https://i.postimg.cc/KzL8RTqq/1920px-Moodle-logo-svg.png" />][moodle]
+[<img align="left" alt="WORDPRESS" width="90px" height="40" src="https://i.postimg.cc/dVLvhdD2/240px-Word-Press-logo-svg.png" />][wordpress]
+[<img align="left" alt="JOOMLA" width="90px" height="40" src="https://i.postimg.cc/63hFj5y6/300px-Joomla-Logo-svg.png" />][joomla]
+[<img align="left" alt="DRUPAL" width="90px" height="40" src="https://i.postimg.cc/8kK0jYvY/241px-Drupal-wordmark-svg.png" />][drupal]
+[<img align="left" alt="INVOICEPLANE" width="90px" height="40" src="https://i.postimg.cc/wMyctw8K/inv-logo.png" />][invoiceplane]
 <br/>
 
 ---
