@@ -32,12 +32,12 @@
 
 ### Evironment I work in:
 
-[<img align="left" alt="LINUX" width="40px" src="https://i.postimg.cc/L4Dnft4w/150px-Tux-svg.png" />][linux]
-[<img align="left" alt="DEBIAN" width="30px" src="https://i.postimg.cc/9XgcCJQm/100px-Debian-Open-Logo-svg.png" />][debian]
-[<img align="left" alt="UBUNTU" width="90px" src="https://i.postimg.cc/pdCgkL9W/250px-Logo-ubuntu-no-r-black-orange-hex-svg.png" />][ubuntu]
-[<img align="left" alt="APACHE" width="90px" src="https://i.postimg.cc/VvHKgtGj/download.png" />][apache]
-[<img align="left" alt="MARIADB" width="90px" src="https://i.postimg.cc/wv8FbHQG/Maria-DB-Logo.png" />][mariadb]
-[<img align="left" alt="PHP" width="90px" src="https://i.postimg.cc/RhGRFt5k/100px-PHP-logo-svg.png" />][php]
+[<img align="left" alt="LINUX" width="40px" height="40" src="https://i.postimg.cc/L4Dnft4w/150px-Tux-svg.png" />][linux]
+[<img align="left" alt="DEBIAN" width="30px" " height="40" src="https://i.postimg.cc/9XgcCJQm/100px-Debian-Open-Logo-svg.png" />][debian]
+[<img align="left" alt="UBUNTU" width="90px" " height="40" src="https://i.postimg.cc/pdCgkL9W/250px-Logo-ubuntu-no-r-black-orange-hex-svg.png" />][ubuntu]
+[<img align="left" alt="APACHE" width="90px" " height="40" src="https://i.postimg.cc/VvHKgtGj/download.png" />][apache]
+[<img align="left" alt="MARIADB" width="90px" " height="40" src="https://i.postimg.cc/wv8FbHQG/Maria-DB-Logo.png" />][mariadb]
+[<img align="left" alt="PHP" width="90px" " height="40"src="https://i.postimg.cc/RhGRFt5k/100px-PHP-logo-svg.png" />][php]
 <br/>
 <br/>
 
@@ -45,13 +45,13 @@
 
 ### Software's I work with:
 
-[<img align="left" alt="KOHA" width="90px" height="40" src="https://i.postimg.cc/W1MnRKbH/Koha-logo.png" />][kohails]
-[<img align="left" alt="DSPACE" width="90px" height="40" src="https://i.postimg.cc/HsbXfcTt/DSpace-transparent-logo.png" />][dspace]
-[<img align="left" alt="MOODLE" width="90px" height="40" src="https://i.postimg.cc/KzL8RTqq/1920px-Moodle-logo-svg.png" />][moodle]
-[<img align="left" alt="WORDPRESS" width="90px" height="40" src="https://i.postimg.cc/dVLvhdD2/240px-Word-Press-logo-svg.png" />][wordpress]
-[<img align="left" alt="JOOMLA" width="90px" height="40" src="https://i.postimg.cc/63hFj5y6/300px-Joomla-Logo-svg.png" />][joomla]
-[<img align="left" alt="DRUPAL" width="90px" height="40" src="https://i.postimg.cc/8kK0jYvY/241px-Drupal-wordmark-svg.png" />][drupal]
-[<img align="left" alt="INVOICEPLANE" width="90px" height="40" src="https://i.postimg.cc/wMyctw8K/inv-logo.png" />][invoiceplane]
+[<img align="left" alt="KOHA" width="90px" height="30" src="https://i.postimg.cc/W1MnRKbH/Koha-logo.png" />][kohails]
+[<img align="left" alt="DSPACE" width="90px" height="30" src="https://i.postimg.cc/HsbXfcTt/DSpace-transparent-logo.png" />][dspace]
+[<img align="left" alt="MOODLE" width="90px" height="30" src="https://i.postimg.cc/KzL8RTqq/1920px-Moodle-logo-svg.png" />][moodle]
+[<img align="left" alt="WORDPRESS" width="90px" height="30" src="https://i.postimg.cc/dVLvhdD2/240px-Word-Press-logo-svg.png" />][wordpress]
+[<img align="left" alt="JOOMLA" width="90px" height="30" src="https://i.postimg.cc/63hFj5y6/300px-Joomla-Logo-svg.png" />][joomla]
+[<img align="left" alt="DRUPAL" width="90px" height="30" src="https://i.postimg.cc/8kK0jYvY/241px-Drupal-wordmark-svg.png" />][drupal]
+[<img align="left" alt="INVOICEPLANE" width="90px" height="30" src="https://i.postimg.cc/wMyctw8K/inv-logo.png" />][invoiceplane]
 <br/>
 
 ---
