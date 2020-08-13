@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install SLiMS (Senayan Library Management System) on Debian/Ubuntu](https://libtechnophile.blogspot.com/2020/08/install-slims-senayan-library.html)
 - [Install OpenJDK 8 on Debian 10 (Buster)](https://libtechnophile.blogspot.com/2020/08/install-openjdk-8-on-debian-10-buster.html)
 - [Install pgAdmin 4 on Debian/Ubuntu](https://libtechnophile.blogspot.com/2020/08/install-pgadmin-4-on-debianubuntu.html)
 - [Install PostgreSQL on Debian ](https://libtechnophile.blogspot.com/2020/08/install-postgresql-on-debian.html)
 - [Install Moodle LMS on Debian/Ubuntu](https://libtechnophile.blogspot.com/2020/07/install-moodle-lms-on-debianubuntu.html)
-- [Using Google Drive on Debian/Ubuntu with Rclone](https://libtechnophile.blogspot.com/2020/07/using-google-drive-on-debianubuntu-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
