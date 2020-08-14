@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrade Moodle to the latest version](https://libtechnophile.blogspot.com/2020/08/upgrade-moodle-to-latest-version.html)
 - [Adminer: an alternative to phpMyAdmin](https://libtechnophile.blogspot.com/2020/08/adminer-alternative-to-phpmyadmin.html)
 - [Install SLiMS (Senayan Library Management System) on Debian/Ubuntu](https://libtechnophile.blogspot.com/2020/08/install-slims-senayan-library.html)
 - [Install OpenJDK 8 on Debian 10 (Buster)](https://libtechnophile.blogspot.com/2020/08/install-openjdk-8-on-debian-10-buster.html)
 - [Install pgAdmin 4 on Debian/Ubuntu](https://libtechnophile.blogspot.com/2020/08/install-pgadmin-4-on-debianubuntu.html)
-- [Install PostgreSQL on Debian ](https://libtechnophile.blogspot.com/2020/08/install-postgresql-on-debian.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
