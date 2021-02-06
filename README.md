@@ -1,10 +1,10 @@
 ### Hi there, I'm Mahesh Palamuttath - [website] 👋
 
 ## I'm a Libtechnophile, Linux Geek, and FOSS advocate!
-- 🔭 I’m currently doing M.Phil at DLISc, University of Calicut
+- 🔭 I’m currently working as a freelancer
 - 🌱 I’m focusing on Free and Open-Source Software
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and cooking
 
 ### Connect with me:
