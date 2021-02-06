@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create a database, user with password in MySQL/MariaDB](https://libtechnophile.blogspot.com/2020/08/how-to-create-database-user-with.html)
-- [Install and Configure SSH key in Linux](https://libtechnophile.blogspot.com/2020/08/install-and-configure-ssh-key-in-linux.html)
-- [Upgrade Moodle to the latest version](https://libtechnophile.blogspot.com/2020/08/upgrade-moodle-to-latest-version.html)
-- [Adminer: an alternative to phpMyAdmin](https://libtechnophile.blogspot.com/2020/08/adminer-alternative-to-phpmyadmin.html)
-- [Install SLiMS (Senayan Library Management System) on Debian/Ubuntu](https://libtechnophile.blogspot.com/2020/08/install-slims-senayan-library.html)
+- [How to Make Debian 10 Minimal](https://libtechnophile.blogspot.com/2021/02/how-to-make-debian-10-minimal.html)
+- [Install AnyDesk via DEB Repository](https://libtechnophile.blogspot.com/2021/01/install-anydesk-via-deb-repository.html)
+- [Cairo Dock, A Highly Customizable Dock panel for Ubuntu](https://libtechnophile.blogspot.com/2021/01/cairo-dock-highly-customizable-dock.html)
+- [Install Signal Desktop on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/01/install-signal-desktop-on-debianubuntu.html)
+- [Batch Importing of Bitstreams in Dspace](https://libtechnophile.blogspot.com/2020/11/batch-importing-of-bitstreams-in-dspace.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
