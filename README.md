@@ -2,7 +2,7 @@
 
 ## I'm a Libtechnophile, Linux Geek, and FOSS advocate!
 - 🔭 I’m the Owner/Managing Director at OpenSio Software Solutions
-- 🌱 I’m focusing on Free and Open-Source Software
+- 🌱 I’m focusing on Free and Open-Source Software and its services
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and cooking
