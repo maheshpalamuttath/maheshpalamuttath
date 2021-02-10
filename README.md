@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Macubuntu BIGSur 2021 Released](https://libtechnophile.blogspot.com/2021/02/macubuntu-bigsur-2021-released.html)
 - [How to reset the MySQL 5.7 root password in Ubuntu 16.04 LTS](https://libtechnophile.blogspot.com/2021/02/how-to-reset-mysql-57-root-password-in.html)
 - [How to Make Debian 10 Minimal](https://libtechnophile.blogspot.com/2021/02/how-to-make-debian-10-minimal.html)
 - [Install AnyDesk via DEB Repository](https://libtechnophile.blogspot.com/2021/01/install-anydesk-via-deb-repository.html)
 - [Cairo Dock, A Highly Customizable Dock panel for Ubuntu](https://libtechnophile.blogspot.com/2021/01/cairo-dock-highly-customizable-dock.html)
-- [Install Signal Desktop on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/01/install-signal-desktop-on-debianubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
