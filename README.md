@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahesh Palamuttath - [website] 👋
 
-## I'm a Libtechnophile, Linux Geek, and FOSS advocate!
+## LINUX, FOSS AND LIBRARY TECHNOLOGY ENTHUSIAST!
 - 🔭 I’m the Owner/Managing Director at OpenSio Software Solutions
 - 🌱 I’m focusing on Free and Open-Source Software and its services
 - 👯 I’m looking to collaborate with other content creators
