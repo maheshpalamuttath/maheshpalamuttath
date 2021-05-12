@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install VuFind on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/05/install-vufind-on-debianubuntu.html)
 - [Install MarcEdit on Debian](https://libtechnophile.blogspot.com/2021/05/install-marcedit-on-debian.html)
 - [Place a Calendar on Your Koha OPAC](https://libtechnophile.blogspot.com/2021/04/place-calendar-on-your-koha-opac.html)
 - [Setting up the Koha Coverflow Plugin (Bywater Solutions)](https://libtechnophile.blogspot.com/2021/03/setting-up-koha-coverflow-plugin.html)
 - [Install Open Journal System (OJS) on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/02/install-open-journal-system-ojs-on.html)
-- [Things to Do after Installing Debian (Easy Method)](https://libtechnophile.blogspot.com/2021/02/things-to-do-after-installing-debian.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
