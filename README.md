@@ -71,11 +71,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Installing Debian Netinst ISO](https://www.youtube.com/watch?v=J7eK86su33E)
 - [Install Koha ILS on Ubuntu 20.04 LTS | Fixing Perl Modules Missing](https://www.youtube.com/watch?v=JvXBfYFs4Q8)
 - [How to Use Koha Offline Circulation Tool](https://www.youtube.com/watch?v=wARQEyiA8vA)
 - [Using Python Script Convert MARC files to Excel Spreadsheets and Vice-Versa](https://www.youtube.com/watch?v=S0jbCZ2fY9E)
 - [In Out Management System with Koha ILMS](https://www.youtube.com/watch?v=dxVHHeCZaAM)
-- [Configure Koha coverflow plugin](https://www.youtube.com/watch?v=qIYfiVmFEF4)
 <!-- YOUTUBE:END -->
 
 ---
