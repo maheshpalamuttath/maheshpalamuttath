@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Remote Access to MySQL/MariaDB Databases](https://libtechnophile.blogspot.com/2021/06/configuring-remote-access-to.html)
 - [Using Microsoft SQL Server (MSSQL Server) in Ubuntu](https://libtechnophile.blogspot.com/2021/06/using-microsoft-sql-server-mssql-server.html)
 - [Securing MySQL/MariaDB on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/06/securing-mysqlmariadb-on-debianubuntu.html)
 - [Install Debian with Netinst ISO](https://libtechnophile.blogspot.com/2021/05/install-debian-with-netinst-iso.html)
 - [Install VuFind on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/05/install-vufind-on-debianubuntu.html)
-- [Install MarcEdit on Debian](https://libtechnophile.blogspot.com/2021/05/install-marcedit-on-debian.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
