@@ -60,7 +60,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Install Koha on Debian/Ubuntu with ElasticSearch as Search Engine](https://libtechnophile.blogspot.com/2021/07/install-koha-on-debianubuntu-with.html)
+- [Using ElasticSearch in Koha ILS](https://libtechnophile.blogspot.com/2021/08/using-elasticsearch-in-koha-ils.html)
 - [Auto BackUp Koha Database Using a Simple Bash Script](https://libtechnophile.blogspot.com/2021/07/auto-backup-koha-database-using-simple.html)
 - [Creating a User Restricted Page in OPAC](https://libtechnophile.blogspot.com/2021/07/creating-user-restricted-page-in-opac.html)
 - [Configuring Remote Access to PostgreSQL Databases](https://libtechnophile.blogspot.com/2021/07/configuring-remote-access-to-postgresql.html)
