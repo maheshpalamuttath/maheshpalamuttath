@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Canon LBP2900 Printer in Ubuntu](https://libtechnophile.blogspot.com/2021/08/installing-canon-lbp2900-printer-in.html)
+- [Debian 11 Bullseye Released](https://libtechnophile.blogspot.com/2021/08/debian-11-bullseye-released.html)
 - [Importing Bulk MARC File Via Command Line](https://libtechnophile.blogspot.com/2021/08/importing-bulk-marc-file-via-command.html)
 - [All Circulation Transactions on Date Range with Patron & Item Details](https://libtechnophile.blogspot.com/2021/08/all-circulation-transactions-on-date.html)
 - [Using ElasticSearch in Koha ILS](https://libtechnophile.blogspot.com/2021/08/using-elasticsearch-in-koha-ils.html)
-- [Auto BackUp Koha Database Using a Simple Bash Script](https://libtechnophile.blogspot.com/2021/07/auto-backup-koha-database-using-simple.html)
-- [Creating a User Restricted Page in OPAC](https://libtechnophile.blogspot.com/2021/07/creating-user-restricted-page-in-opac.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
