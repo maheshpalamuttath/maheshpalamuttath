@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install VirtualBox on Debian 11 (Bullseye)](https://libtechnophile.blogspot.com/2021/09/install-virtualbox-on-debian-11-bullseye.html)
 - [Auto Backup Koha & inout Databases using a Script](https://libtechnophile.blogspot.com/2021/09/auto-backup-koha-inout-databases-using.html)
 - [Installing Canon LBP2900 Printer in Ubuntu](https://libtechnophile.blogspot.com/2021/08/installing-canon-lbp2900-printer-in.html)
 - [Debian 11 Bullseye Released](https://libtechnophile.blogspot.com/2021/08/debian-11-bullseye-released.html)
 - [Importing Bulk MARC File Via Command Line](https://libtechnophile.blogspot.com/2021/08/importing-bulk-marc-file-via-command.html)
-- [All Circulation Transactions on Date Range with Patron & Item Details](https://libtechnophile.blogspot.com/2021/08/all-circulation-transactions-on-date.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
