@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Syncthing to Sync Your Files Across All your Computers](https://libtechnophile.blogspot.com/2021/09/using-syncthing-to-sync-your-files.html)
 - [Using Tmux in Linux Command line](https://libtechnophile.blogspot.com/2021/09/using-tmux-in-linux-command-line.html)
 - [Importing Bulk Holidays in Koha's Calendar](https://libtechnophile.blogspot.com/2021/09/importing-bulk-holidays-in-kohas.html)
 - [Xubuntu Core: Lightweight Ubuntu](https://libtechnophile.blogspot.com/2021/09/xubuntu-core-lightweight-ubuntu.html)
 - [Install VirtualBox on Debian 11 (Bullseye)](https://libtechnophile.blogspot.com/2021/09/install-virtualbox-on-debian-11-bullseye.html)
-- [Auto Backup Koha & inout Databases using a Script](https://libtechnophile.blogspot.com/2021/09/auto-backup-koha-inout-databases-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
