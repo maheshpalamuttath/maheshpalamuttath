@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accession Register Report by Branch](https://libtechnophile.blogspot.com/2021/10/accession-register-report-by-branch.html)
 - [Using Ngrok remotely access Koha OPAC](https://libtechnophile.blogspot.com/2021/10/using-ngrok-remotely-access-koha-opac.html)
 - [Install MySQL/MariaDB local client for DBeaver on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/09/install-mysqlmariadb-local-client-for.html)
 - [Using Syncthing to Sync Your Files Across All your Computers](https://libtechnophile.blogspot.com/2021/09/using-syncthing-to-sync-your-files.html)
 - [Using Tmux in Linux Command line](https://libtechnophile.blogspot.com/2021/09/using-tmux-in-linux-command-line.html)
-- [Importing Bulk Holidays in Koha's Calendar](https://libtechnophile.blogspot.com/2021/09/importing-bulk-holidays-in-kohas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
