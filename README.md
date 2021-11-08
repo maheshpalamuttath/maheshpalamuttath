@@ -71,8 +71,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Using Windows Subsystem for Linux (WSL) in Windows 10](https://www.youtube.com/watch?v=lpZX5JlDg8s)
-- [Integrating Inout Management System with Koha ILS  (git method)](https://www.youtube.com/watch?v=Z_pCqiGwG0E)
+- [Using Windows Subsystem for Linux &lpar;WSL&rpar; in Windows 10](https://www.youtube.com/watch?v=lpZX5JlDg8s)
+- [Integrating Inout Management System with Koha ILS  &lpar;git method&rpar;](https://www.youtube.com/watch?v=Z_pCqiGwG0E)
 - [Installing Debian Netinst ISO](https://www.youtube.com/watch?v=J7eK86su33E)
 - [Install Koha ILS on Ubuntu 20.04 LTS | Fixing Perl Modules Missing](https://www.youtube.com/watch?v=JvXBfYFs4Q8)
 - [How to Use Koha Offline Circulation Tool](https://www.youtube.com/watch?v=wARQEyiA8vA)
