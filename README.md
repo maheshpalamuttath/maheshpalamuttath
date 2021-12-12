@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install PHP 8 on Debian 11](https://libtechnophile.blogspot.com/2021/12/install-php-8-on-debian-11.html)
 - [Accessing DSpace with a Subdomain](https://libtechnophile.blogspot.com/2021/11/accessing-dspace-with-subdomain.html)
 - [Create Library Membership Card using gLabels Software](https://libtechnophile.blogspot.com/2021/11/create-library-id-card-using-glabels.html)
 - [Accession Register Report by Branch](https://libtechnophile.blogspot.com/2021/10/accession-register-report-by-branch.html)
 - [Using Ngrok remotely access Koha OPAC](https://libtechnophile.blogspot.com/2021/10/using-ngrok-remotely-access-koha-opac.html)
-- [Install MySQL/MariaDB local client for DBeaver on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/09/install-mysqlmariadb-local-client-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
