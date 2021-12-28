@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enabling Automatic Updates on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/12/enabling-automatic-updates-on.html)
 - [Using Google Drive create an Image Gallery for Koha&#39;s OPAC](https://libtechnophile.blogspot.com/2021/12/using-google-drive-create-image-gallery.html)
 - [Install PHP 8 on Debian 11](https://libtechnophile.blogspot.com/2021/12/install-php-8-on-debian-11.html)
 - [Accessing DSpace with a Subdomain](https://libtechnophile.blogspot.com/2021/11/accessing-dspace-with-subdomain.html)
 - [Create Library Membership Card using gLabels Software](https://libtechnophile.blogspot.com/2021/11/create-library-id-card-using-glabels.html)
-- [Accession Register Report by Branch](https://libtechnophile.blogspot.com/2021/10/accession-register-report-by-branch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
