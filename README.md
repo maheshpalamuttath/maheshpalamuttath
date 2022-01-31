@@ -60,7 +60,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Install LAMP Stack on Debain 11 &lpar;Bullseye&rpar;](https://libtechnophile.blogspot.com/2022/01/install-lamp-stack-on-debain-11-bullseye.html)
+- [Install LAMP Stack on Debian 11 &lpar;Bullseye&rpar;](https://libtechnophile.blogspot.com/2022/01/install-lamp-stack-on-debain-11-bullseye.html)
 - [Setting up Apache as Reverse Proxy for Tomcat Server](https://libtechnophile.blogspot.com/2022/01/setting-up-apache-as-reverse-proxy-for.html)
 - [Install Crater Invoice App on Debian/Ubuntu](https://libtechnophile.blogspot.com/2022/01/install-crater-invoice-app-on.html)
 - [Enabling Automatic Updates on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/12/enabling-automatic-updates-on.html)
