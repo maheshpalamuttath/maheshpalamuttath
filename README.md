@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Configure Email in Koha using In-built SMTP Module](https://libtechnophile.blogspot.com/2022/02/configure-email-in-koha-using-in-built.html)
 - [Install LAMP Stack on Debian 11 &lpar;Bullseye&rpar;](https://libtechnophile.blogspot.com/2022/01/install-lamp-stack-on-debain-11-bullseye.html)
 - [Setting up Apache as Reverse Proxy for Tomcat Server](https://libtechnophile.blogspot.com/2022/01/setting-up-apache-as-reverse-proxy-for.html)
 - [Install Crater Invoice App on Debian/Ubuntu](https://libtechnophile.blogspot.com/2022/01/install-crater-invoice-app-on.html)
 - [Enabling Automatic Updates on Debian/Ubuntu](https://libtechnophile.blogspot.com/2021/12/enabling-automatic-updates-on.html)
-- [Using Google Drive create an Image Gallery for Koha&#39;s OPAC](https://libtechnophile.blogspot.com/2021/12/using-google-drive-create-image-gallery.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
