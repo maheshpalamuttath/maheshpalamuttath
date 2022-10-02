@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using MySQL String Functions](https://libtechnophile.blogspot.com/2022/10/using-mysql-string-functions.html)
 - [Creating a CRUD Web Application for Dissertation Catalog](https://libtechnophile.blogspot.com/2022/08/creating-crud-web-application-for_23.html)
 - [Few Branch-wise Reports &lpar;SQL&rpar; in Koha](https://libtechnophile.blogspot.com/2022/04/few-branch-wise-reports-in-koha.html)
 - [Using Koha as a Mini Digital Repository](https://libtechnophile.blogspot.com/2022/03/using-koha-as-mini-digital.html)
 - [Configure Email in Koha using In-built SMTP Module](https://libtechnophile.blogspot.com/2022/02/configure-email-in-koha-using-in-built.html)
-- [Install LAMP Stack on Debian 11 &lpar;Bullseye&rpar;](https://libtechnophile.blogspot.com/2022/01/install-lamp-stack-on-debain-11-bullseye.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
