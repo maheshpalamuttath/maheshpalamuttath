@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Authorized Values Manage Koha Patrons](https://libtechnophile.blogspot.com/2022/12/using-authorized-values-manage-koha.html)
 - [Installing Let’s Encrypt on Debian 11](https://libtechnophile.blogspot.com/2022/11/installing-lets-encrypt-on-debian-11.html)
 - [Using MySQL String Functions](https://libtechnophile.blogspot.com/2022/10/using-mysql-string-functions.html)
 - [Creating a CRUD Web Application for Dissertation Catalog](https://libtechnophile.blogspot.com/2022/08/creating-crud-web-application-for_23.html)
 - [Few Branch-wise Reports &lpar;SQL&rpar; in Koha](https://libtechnophile.blogspot.com/2022/04/few-branch-wise-reports-in-koha.html)
-- [Using Koha as a Mini Digital Repository](https://libtechnophile.blogspot.com/2022/03/using-koha-as-mini-digital.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
