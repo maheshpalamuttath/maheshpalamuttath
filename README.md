@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix Warning: apt-key is deprecated. Manage keyring files in trusted.gpg.d instead in Ubuntu](https://libtechnophile.blogspot.com/2022/12/fix-warning-apt-key-is-deprecated.html)
 - [Setting Up and Securing a Cloud Server](https://libtechnophile.blogspot.com/2022/12/setting-up-and-securing-cloud-server.html)
 - [Install AMP Stack on Debian-based systems Using a bash script](https://libtechnophile.blogspot.com/2022/12/install-amp-stack-on-debian-based.html)
 - [Using Authorized Values Manage Koha Patrons](https://libtechnophile.blogspot.com/2022/12/using-authorized-values-manage-koha.html)
 - [Installing Let’s Encrypt on Debian 11](https://libtechnophile.blogspot.com/2022/11/installing-lets-encrypt-on-debian-11.html)
-- [Using MySQL String Functions](https://libtechnophile.blogspot.com/2022/10/using-mysql-string-functions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
