@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up and Securing a Cloud Server](https://libtechnophile.blogspot.com/2022/12/setting-up-and-securing-cloud-server.html)
 - [Install AMP Stack on Debian-based systems Using a bash script](https://libtechnophile.blogspot.com/2022/12/install-amp-stack-on-debian-based.html)
 - [Using Authorized Values Manage Koha Patrons](https://libtechnophile.blogspot.com/2022/12/using-authorized-values-manage-koha.html)
 - [Installing Let’s Encrypt on Debian 11](https://libtechnophile.blogspot.com/2022/11/installing-lets-encrypt-on-debian-11.html)
 - [Using MySQL String Functions](https://libtechnophile.blogspot.com/2022/10/using-mysql-string-functions.html)
-- [Creating a CRUD Web Application for Dissertation Catalog](https://libtechnophile.blogspot.com/2022/08/creating-crud-web-application-for_23.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
