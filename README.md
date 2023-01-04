@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Docker, Docker-Compose and NGinx Proxy Manager on Debian](https://libtechnophile.blogspot.com/2023/01/install-docker-docker-compose-and-nginx.html)
+- [External Access to a Local Server via a Cloudflare Tunnel](https://libtechnophile.blogspot.com/2023/01/externalaccessto-alocalservervia.html)
 - [RustDesk: A self-hosted AnyDesk/TeamViewer Alternative](https://libtechnophile.blogspot.com/2022/12/rustdesk-self-hosted-anydeskteamviewer.html)
 - [Fix Warning: apt-key is deprecated. Manage keyring files in trusted.gpg.d instead in Ubuntu](https://libtechnophile.blogspot.com/2022/12/fix-warning-apt-key-is-deprecated.html)
 - [Setting Up and Securing a Cloud Server](https://libtechnophile.blogspot.com/2022/12/setting-up-and-securing-cloud-server.html)
-- [Install AMP Stack on Debian-based systems Using a bash script](https://libtechnophile.blogspot.com/2022/12/install-amp-stack-on-debian-based.html)
-- [Using Authorized Values Manage Koha Patrons](https://libtechnophile.blogspot.com/2022/12/using-authorized-values-manage-koha.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
