@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to set static IP address on Debian/Ubuntu Linux](https://libtechnophile.blogspot.com/2023/01/how-to-static-ip-address-on.html)
 - [Install Docker, Docker-Compose and NGinx Proxy Manager on Debian](https://libtechnophile.blogspot.com/2023/01/install-docker-docker-compose-and-nginx.html)
 - [External Access to a Local Server via a Cloudflare Tunnel](https://libtechnophile.blogspot.com/2023/01/externalaccessto-alocalservervia.html)
 - [RustDesk: A self-hosted AnyDesk/TeamViewer Alternative](https://libtechnophile.blogspot.com/2022/12/rustdesk-self-hosted-anydeskteamviewer.html)
 - [Fix Warning: apt-key is deprecated. Manage keyring files in trusted.gpg.d instead in Ubuntu](https://libtechnophile.blogspot.com/2022/12/fix-warning-apt-key-is-deprecated.html)
-- [Setting Up and Securing a Cloud Server](https://libtechnophile.blogspot.com/2022/12/setting-up-and-securing-cloud-server.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
