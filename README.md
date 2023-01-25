@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python script to convert, resize, and compress images in bulk](https://libtechnophile.blogspot.com/2023/01/python-script-to-convert-resize-and.html)
 - [Muon SSH Terminal/SFTP client](https://libtechnophile.blogspot.com/2023/01/muon-ssh-terminalsftp-client.html)
 - [How to set static IP address on Debian/Ubuntu Linux](https://libtechnophile.blogspot.com/2023/01/how-to-static-ip-address-on.html)
 - [Install Docker, Docker-Compose and NGinx Proxy Manager on Debian](https://libtechnophile.blogspot.com/2023/01/install-docker-docker-compose-and-nginx.html)
 - [External Access to a Local Server via a Cloudflare Tunnel](https://libtechnophile.blogspot.com/2023/01/externalaccessto-alocalservervia.html)
-- [RustDesk: A self-hosted AnyDesk/TeamViewer Alternative](https://libtechnophile.blogspot.com/2022/12/rustdesk-self-hosted-anydeskteamviewer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
