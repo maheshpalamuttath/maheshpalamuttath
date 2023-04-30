@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DS](https://libtechnophile.blogspot.com/2023/04/ds.html)
 - [Installing MRBS on Debian/Ubuntu](https://libtechnophile.blogspot.com/2023/04/installing-mrbs-on-debianubuntu.html)
 - [Creating a SWAP partition in Debian/Ubuntu Linux](https://libtechnophile.blogspot.com/2023/02/creating-swap-partition-in-debianubuntu.html)
 - [Install latest PHP on Debian](https://libtechnophile.blogspot.com/2023/02/install-latest-php-on-debian.html)
 - [Python script to convert, resize, and compress images in bulk](https://libtechnophile.blogspot.com/2023/01/python-script-to-convert-resize-and.html)
-- [Muon SSH Terminal/SFTP client](https://libtechnophile.blogspot.com/2023/01/muon-ssh-terminalsftp-client.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
