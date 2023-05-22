@@ -71,11 +71,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Using Python script to convert, resize, and compress images in bulk](https://www.youtube.com/watch?v=va8m6mflz1I)
-- [Muon SSH Terminal/SFTP client](https://www.youtube.com/watch?v=fGRhYtiAsic)
+- [NEAR NFT 2023 | TRUSTPAD + NEAR CLAIM TOKEN 500$](https://www.youtube.com/watch?v=chZgmpex4H8)
+- [CAKE token crypto 2023🔥](https://www.youtube.com/watch?v=v6tJBsLqbXs)
+- [NEW CRYPTO  LUCKYBLOCK TOKEN INVEST PROJECT 2023💸](https://www.youtube.com/watch?v=KejF_VJArfE)
 - [Mahesh Palamuttath Live Stream OBS Test](https://www.youtube.com/watch?v=yyEzZXGOy4Y)
-- [Export Koha List to CSV](https://www.youtube.com/watch?v=_Jbt3j2OOUk)
-- [Importing contacts into Google contacts](https://www.youtube.com/watch?v=8Hdbsg9KJb0)
 <!-- YOUTUBE:END -->
 
 ---
