@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending Bulk Overdue Notifications from Koha via WhatsApp](https://libtechnophile.blogspot.com/2023/07/sending-bulk-overdue-notifications-from.html)
 - [Simplified Guide: Installing Koha with an Effortless Script](https://libtechnophile.blogspot.com/2023/05/simplified-guide-installing-koha-with.html)
 - [Installing MRBS on Debian/Ubuntu](https://libtechnophile.blogspot.com/2023/04/installing-mrbs-on-debianubuntu.html)
 - [Retrieving Library and Patron Category Codes from Koha Database using MySQL Query](https://libtechnophile.blogspot.com/2023/05/retrieving-library-and-patron-category.html)
 - [Creating a SWAP partition in Debian/Ubuntu Linux](https://libtechnophile.blogspot.com/2023/02/creating-swap-partition-in-debianubuntu.html)
-- [Install latest PHP on Debian](https://libtechnophile.blogspot.com/2023/02/install-latest-php-on-debian.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
