@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Omeka for Digital Exhibits on Debian/Ubuntu](https://libtechnophile.blogspot.com/2023/11/setting-up-omeka-for-digital-exhibits.html)
 - [Monitoring WhatsApp Number Updates in Koha](https://libtechnophile.blogspot.com/2023/08/monitoring-whatsapp-number-updates-in.html)
 - [Automating WhatsApp Number Updates in Koha ILS](https://libtechnophile.blogspot.com/2023/07/automating-whatsapp-number-updates-in.html)
 - [Sending Bulk Overdue Notifications from Koha via WhatsApp](https://libtechnophile.blogspot.com/2023/07/sending-bulk-overdue-notifications-from.html)
 - [Simplified Guide: Installing Koha with an Effortless Script](https://libtechnophile.blogspot.com/2023/05/simplified-guide-installing-koha-with.html)
-- [Installing MRBS on Debian/Ubuntu](https://libtechnophile.blogspot.com/2023/04/installing-mrbs-on-debianubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
