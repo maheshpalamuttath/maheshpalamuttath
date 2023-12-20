@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using JavaScript and jQuery for Minimal Member Entry Form &lpar; Koha 23.05&rpar;](https://libtechnophile.blogspot.com/2023/12/using-javascript-and-jquery-for-minimal.html)
 - [Koha Upgrade Error: Fixing Invalid Monetary Values in Circulation Rules](https://libtechnophile.blogspot.com/2023/12/koha-upgrade-error-fixing-invalid.html)
 - [Streamlining Koha Membership Forms with JavaScript Magic](https://libtechnophile.blogspot.com/2023/11/streamlining-koha-membership-forms-with.html)
 - [Automating MySQL/MariaDB Query Cache Clearance and BleachBit](https://libtechnophile.blogspot.com/2023/11/automating-mysqlmariadb-query-cache.html)
 - [Setting Up Omeka for Digital Exhibits on Debian/Ubuntu](https://libtechnophile.blogspot.com/2023/11/setting-up-omeka-for-digital-exhibits.html)
-- [Monitoring WhatsApp Number Updates in Koha](https://libtechnophile.blogspot.com/2023/08/monitoring-whatsapp-number-updates-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
