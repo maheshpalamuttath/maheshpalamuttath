@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Updating Bulk Date of Birth Data in Koha&#39;s Borrowers Table](https://libtechnophile.blogspot.com/2024/02/updating-bulk-date-of-birth-data-in.html)
 - [Creating Custom Pages on Koha OPAC Made Easy with Version 22.11 onwards...](https://libtechnophile.blogspot.com/2024/02/creating-custom-pages-on-koha-opac-made.html)
 - [Installing AnyDesk on Debian/Ubuntu &lpar;Versions 12 and 22.04 LTS and Beyond&rpar;](https://libtechnophile.blogspot.com/2024/02/installing-anydesk-on-debianubuntu.html)
 - [Using JavaScript and jQuery for Minimal Member Entry Form &lpar; Koha 23.05&rpar;](https://libtechnophile.blogspot.com/2023/12/using-javascript-and-jquery-for-minimal.html)
 - [Koha Upgrade Error: Fixing Invalid Monetary Values in Circulation Rules](https://libtechnophile.blogspot.com/2023/12/koha-upgrade-error-fixing-invalid.html)
-- [Streamlining Koha Membership Forms with JavaScript Magic](https://libtechnophile.blogspot.com/2023/11/streamlining-koha-membership-forms-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
