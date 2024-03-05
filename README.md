@@ -60,7 +60,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Updating Bulk Date of Birth Data in Koha&#39;s Borrowers Table](https://libtechnophile.blogspot.com/2024/02/updating-bulk-date-of-birth-data-in.html)
+- [Updating Borrower&#39;s WhatsApp Number and Date of Birth in Bulk](https://libtechnophile.blogspot.com/2024/03/updating-borrowers-whatsapp-number-and.html)
 - [Creating Custom Pages on Koha OPAC Made Easy with Version 22.11 onwards...](https://libtechnophile.blogspot.com/2024/02/creating-custom-pages-on-koha-opac-made.html)
 - [Installing AnyDesk on Debian/Ubuntu &lpar;Versions 12 and 22.04 LTS and Beyond&rpar;](https://libtechnophile.blogspot.com/2024/02/installing-anydesk-on-debianubuntu.html)
 - [Using JavaScript and jQuery for Minimal Member Entry Form &lpar; Koha 23.05&rpar;](https://libtechnophile.blogspot.com/2023/12/using-javascript-and-jquery-for-minimal.html)
