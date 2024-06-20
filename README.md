@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Install Anydesk via a Simple Script &lpar;Above Debian 12/Ubuntu 22&rpar;](https://libtechnophile.blogspot.com/2024/06/install-anydesk-via-simple-script-above.html)
 - [Solving Issues When Removing and Recreating Koha Instances](https://libtechnophile.blogspot.com/2024/05/solving-issues-when-removing-and.html)
 - [Installing Tabula on Debian/Ubuntu](https://libtechnophile.blogspot.com/2024/03/installing-tabula-on-debianubuntu.html)
 - [Connecting Debian/Ubuntu VPS from Windows Using RDP](https://libtechnophile.blogspot.com/2024/03/connecting-debianubuntu-vps-from.html)
 - [Updating Borrower&#39;s WhatsApp Number and Date of Birth in Bulk](https://libtechnophile.blogspot.com/2024/03/updating-borrowers-whatsapp-number-and.html)
+- [Creating Custom Pages on Koha OPAC Made Easy with Version 22.11 onwards...](https://libtechnophile.blogspot.com/2024/02/creating-custom-pages-on-koha-opac-made.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
