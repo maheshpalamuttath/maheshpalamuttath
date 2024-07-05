@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing a LAMP Stack on Ubuntu &lpar;22.04/24.04&rpar;](https://libtechnophile.blogspot.com/2024/07/installing-lamp-stack-on-ubuntu-22042404.html)
 - [Installing RustDesk Server: A Free and Open-Source Alternative to AnyDesk](https://libtechnophile.blogspot.com/2024/07/installing-rustdesk-server-free-and.html)
 - [Solving Issues When Removing and Recreating Koha Instances](https://libtechnophile.blogspot.com/2024/05/solving-issues-when-removing-and.html)
 - [Installing Tabula on Debian/Ubuntu](https://libtechnophile.blogspot.com/2024/03/installing-tabula-on-debianubuntu.html)
 - [Connecting Debian/Ubuntu VPS from Windows Using RDP](https://libtechnophile.blogspot.com/2024/03/connecting-debianubuntu-vps-from.html)
-- [Updating Borrower&#39;s WhatsApp Number and Date of Birth in Bulk](https://libtechnophile.blogspot.com/2024/03/updating-borrowers-whatsapp-number-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
