@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Uptime Kuma on a Linux Server](https://libtechnophile.blogspot.com/2024/10/running-uptime-kuma-on-linux-server.html)
 - [Install Stirling PDF on Linux Based Operating Systems](https://libtechnophile.blogspot.com/2024/10/install-stirling-pdf-on-linux-based.html)
 - [Install Easy!Appointments on Debian/Ubuntu](https://libtechnophile.blogspot.com/2024/07/install-easyappointments-on-debianubuntu.html)
 - [Installing a LAMP Stack on Ubuntu &lpar;22.04/24.04&rpar;](https://libtechnophile.blogspot.com/2024/07/installing-lamp-stack-on-ubuntu-22042404.html)
 - [Installing RustDesk Server: A Free and Open-Source Alternative to AnyDesk](https://libtechnophile.blogspot.com/2024/07/installing-rustdesk-server-free-and.html)
-- [Solving Issues When Removing and Recreating Koha Instances](https://libtechnophile.blogspot.com/2024/05/solving-issues-when-removing-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
