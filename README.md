@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing MySQL/MariaDB Server](https://libtechnophile.blogspot.com/2024/10/securing-mysqlmariadb-server.html)
 - [Setting Up Vaultwarden with Docker](https://libtechnophile.blogspot.com/2024/10/setting-up-vaultwarden-with-docker.html)
 - [Setting Up Multiple PHP Versions with Apache on Debian/Ubuntu](https://libtechnophile.blogspot.com/2024/10/setting-up-multiple-php-versions-with.html)
 - [Effortless Backup and Restore for Docker Services](https://libtechnophile.blogspot.com/2024/10/effortless-backup-and-restore-for.html)
 - [Running Uptime Kuma on a Linux Server](https://libtechnophile.blogspot.com/2024/10/running-uptime-kuma-on-linux-server.html)
-- [Setting Up Your Homepage with Docker](https://libtechnophile.blogspot.com/2024/10/setting-up-your-homepage-with-docker.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
