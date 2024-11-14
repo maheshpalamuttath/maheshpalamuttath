@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Admidio on Debian/Ubuntu](https://libtechnophile.blogspot.com/2024/11/installing-admidio-on-debianubuntu.html)
 - [Setting Up Apache2 with Nginx Proxy Manager on a Single Server](https://libtechnophile.blogspot.com/2024/11/setting-up-apache2-with-nginx-proxy.html)
 - [Installing Signal CLI using Docker and Sending Messages via REST API](https://libtechnophile.blogspot.com/2024/10/installing-signal-cli-using-docker-and.html)
 - [Installing SolidInvoice on Debian/Ubuntu](https://libtechnophile.blogspot.com/2024/10/installing-solidinvoice-on-debianubuntu.html)
 - [Securing MySQL/MariaDB Server](https://libtechnophile.blogspot.com/2024/10/securing-mysqlmariadb-server.html)
-- [Setting Up Vaultwarden with Docker](https://libtechnophile.blogspot.com/2024/10/setting-up-vaultwarden-with-docker.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
