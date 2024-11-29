@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing MRBS 1.11.6: What&#39;s New?](https://libtechnophile.blogspot.com/2024/11/introducing-mrbs-1116-whats-new.html)
 - [Installing phpMyAdmin on Debian/Ubuntu with a Simple Script](https://libtechnophile.blogspot.com/2024/11/installing-phpmyadmin-on-debianubuntu.html)
 - [Adminer: The Simplest Way to Manage MySQL/MariaDB with a GUI](https://libtechnophile.blogspot.com/2024/11/adminer-simplest-way-to-manage.html)
 - [Installing Admidio on Debian/Ubuntu](https://libtechnophile.blogspot.com/2024/11/installing-admidio-on-debianubuntu.html)
 - [Setting Up Apache2 with Nginx Proxy Manager on a Single Server](https://libtechnophile.blogspot.com/2024/11/setting-up-apache2-with-nginx-proxy.html)
-- [Installing Signal CLI using Docker and Sending Messages via REST API](https://libtechnophile.blogspot.com/2024/10/installing-signal-cli-using-docker-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
