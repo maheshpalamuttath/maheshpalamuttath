@@ -4,7 +4,7 @@
 - 🔭 I’m the CEO & Founder of OpenSio Software Solutions
 - 🌱 I’m focusing on Free and Open-Source Software and its services
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and cooking
 
 ### Connect with me:
