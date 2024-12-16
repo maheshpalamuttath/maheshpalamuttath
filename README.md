@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto-Fill Username in Debian XFCE Login Screen](https://libtechnophile.blogspot.com/2024/12/auto-fill-username-in-debian-xfce-login.html)
 - [Installing Apache Solr on Debian 12/Ubuntu 24.04 LTS](https://libtechnophile.blogspot.com/2024/12/installing-apache-solr-on-debian.html)
 - [Introducing MRBS 1.11.6: What&#39;s New?](https://libtechnophile.blogspot.com/2024/11/introducing-mrbs-1116-whats-new.html)
 - [Installing phpMyAdmin on Debian/Ubuntu with a Simple Script](https://libtechnophile.blogspot.com/2024/11/installing-phpmyadmin-on-debianubuntu.html)
 - [Adminer: The Simplest Way to Manage MySQL/MariaDB with a GUI](https://libtechnophile.blogspot.com/2024/11/adminer-simplest-way-to-manage.html)
-- [Installing Admidio on Debian/Ubuntu](https://libtechnophile.blogspot.com/2024/11/installing-admidio-on-debianubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
