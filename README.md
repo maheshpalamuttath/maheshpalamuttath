@@ -71,10 +71,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [NEAR NFT 2023 | TRUSTPAD + NEAR CLAIM TOKEN 500$](https://www.youtube.com/watch?v=chZgmpex4H8)
-- [CAKE token crypto 2023🔥](https://www.youtube.com/watch?v=v6tJBsLqbXs)
-- [NEW CRYPTO  LUCKYBLOCK TOKEN INVEST PROJECT 2023💸](https://www.youtube.com/watch?v=KejF_VJArfE)
-- [Mahesh Palamuttath Live Stream OBS Test](https://www.youtube.com/watch?v=yyEzZXGOy4Y)
+- [Python script to convert, resize, and compress images in bulk for Koha](https://www.youtube.com/watch?v=hD2LLE8_NNU)
+- [Automating WhatsApp Number Updates in Koha ILS](https://www.youtube.com/watch?v=RbQS8xzXvhQ)
 <!-- YOUTUBE:END -->
 
 ---
