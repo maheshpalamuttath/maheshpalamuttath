@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Service Monitoring with Monit](https://libtechnophile.blogspot.com/2025/01/simplifying-service-monitoring-with.html)
 - [Changing the Frontpage Text in DSpace 8](https://libtechnophile.blogspot.com/2025/01/changing-frontpage-text-in-dspace-8.html)
 - [Auto-Fill Username in Debian XFCE Login Screen](https://libtechnophile.blogspot.com/2024/12/auto-fill-username-in-debian-xfce-login.html)
 - [Installing Apache Solr on Debian 12/Ubuntu 24.04 LTS](https://libtechnophile.blogspot.com/2024/12/installing-apache-solr-on-debian.html)
 - [Introducing MRBS 1.11.6: What&#39;s New?](https://libtechnophile.blogspot.com/2024/11/introducing-mrbs-1116-whats-new.html)
-- [Installing phpMyAdmin on Debian/Ubuntu with a Simple Script](https://libtechnophile.blogspot.com/2024/11/installing-phpmyadmin-on-debianubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
