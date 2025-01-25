@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Firefox in Kiosk Mode on Xubuntu](https://libtechnophile.blogspot.com/2025/01/setting-up-firefox-in-kiosk-mode-on.html)
 - [Setting Up a Kiosk Mode System with Chromium on Linux](https://libtechnophile.blogspot.com/2025/01/setting-up-kiosk-mode-system-with.html)
 - [Simplifying Service Monitoring with Monit](https://libtechnophile.blogspot.com/2025/01/simplifying-service-monitoring-with.html)
 - [Changing the Frontpage Text in DSpace 8](https://libtechnophile.blogspot.com/2025/01/changing-frontpage-text-in-dspace-8.html)
 - [Auto-Fill Username in Debian XFCE Login Screen](https://libtechnophile.blogspot.com/2024/12/auto-fill-username-in-debian-xfce-login.html)
-- [Installing Apache Solr on Debian 12/Ubuntu 24.04 LTS](https://libtechnophile.blogspot.com/2024/12/installing-apache-solr-on-debian.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
