@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Displaying Real-Time Library Statistics on the Koha Staff Interface](https://libtechnophile.blogspot.com/2025/01/displaying-real-time-library-statistics.html)
 - [Using a Cloud Server as a Secure Reverse Proxy](https://libtechnophile.blogspot.com/2025/01/using-cloud-server-as-secure-reverse.html)
 - [Setting Up Firefox in Kiosk Mode on Xubuntu](https://libtechnophile.blogspot.com/2025/01/setting-up-firefox-in-kiosk-mode-on.html)
 - [Setting Up a Kiosk Mode System with Chromium on Linux](https://libtechnophile.blogspot.com/2025/01/setting-up-kiosk-mode-system-with.html)
 - [Simplifying Service Monitoring with Monit](https://libtechnophile.blogspot.com/2025/01/simplifying-service-monitoring-with.html)
-- [Changing the Frontpage Text in DSpace 8](https://libtechnophile.blogspot.com/2025/01/changing-frontpage-text-in-dspace-8.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
