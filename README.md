@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a User in Xubuntu Without Terminal or SSH Access](https://libtechnophile.blogspot.com/2025/02/creating-user-in-xubuntu-without.html)
 - [Install and Configure Xibo Player on Xubuntu 24.04 LTS Minimal](https://libtechnophile.blogspot.com/2025/01/install-and-configure-xibo-player-on.html)
 - [Displaying Real-Time Library Statistics on the Koha Staff Interface](https://libtechnophile.blogspot.com/2025/01/displaying-real-time-library-statistics.html)
 - [Using a Cloud Server as a Secure Reverse Proxy](https://libtechnophile.blogspot.com/2025/01/using-cloud-server-as-secure-reverse.html)
 - [Setting Up Firefox in Kiosk Mode on Xubuntu](https://libtechnophile.blogspot.com/2025/01/setting-up-firefox-in-kiosk-mode-on.html)
-- [Setting Up a Kiosk Mode System with Chromium on Linux](https://libtechnophile.blogspot.com/2025/01/setting-up-kiosk-mode-system-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
