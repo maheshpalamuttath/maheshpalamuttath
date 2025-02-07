@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing PHP 7.4 on Latest Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/02/installing-php-74-on-latest-debianubuntu.html)
 - [How to Set or Change the MySQL Root Password on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/02/how-to-set-or-change-mysql-root.html)
 - [Fixing the &#39;display_order&#39; Column Error in Koha](https://libtechnophile.blogspot.com/2025/02/fixing-displayorder-column-error-in-koha.html)
 - [Install and Configure Xibo Player on Xubuntu 24.04 LTS Minimal](https://libtechnophile.blogspot.com/2025/01/install-and-configure-xibo-player-on.html)
 - [Displaying Real-Time Library Statistics on the Koha Staff Interface](https://libtechnophile.blogspot.com/2025/01/displaying-real-time-library-statistics.html)
-- [Using a Cloud Server as a Secure Reverse Proxy](https://libtechnophile.blogspot.com/2025/01/using-cloud-server-as-secure-reverse.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
