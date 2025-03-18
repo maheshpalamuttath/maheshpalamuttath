@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading In Out Management System to v6](https://libtechnophile.blogspot.com/2025/03/upgrading-in-out-management-system-to-v6.html)
 - [Koha SQL Reports: Circulation &amp; Cataloguing Actions by Staff](https://libtechnophile.blogspot.com/2025/03/koha-sql-reports-circulation.html)
 - [Streaming an IP Camera Feed Using VLC on Ubuntu](https://libtechnophile.blogspot.com/2025/03/streaming-ip-camera-feed-using-vlc-on.html)
 - [Bulk Patron Message Updates in Koha](https://libtechnophile.blogspot.com/2025/03/bulk-patron-message-updates-in-koha.html)
 - [Installing PHP 7.4 on Latest Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/02/installing-php-74-on-latest-debianubuntu.html)
-- [How to Set or Change the MySQL Root Password on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/02/how-to-set-or-change-mysql-root.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
