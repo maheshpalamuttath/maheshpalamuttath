@@ -71,6 +71,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Creating Multiple Koha Instances with a Bash Script](https://www.youtube.com/watch?v=rE2mSyui_e8)
 - [Making Pothichoru for Her | Traditional Kerala Lunch in Banana Leaf](https://www.youtube.com/watch?v=pBUTZyxpUh8)
 - [Python script to convert, resize, and compress images in bulk for Koha](https://www.youtube.com/watch?v=hD2LLE8_NNU)
 - [Automating WhatsApp Number Updates in Koha ILS](https://www.youtube.com/watch?v=RbQS8xzXvhQ)
