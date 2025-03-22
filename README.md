@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install and Use Cockpit on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/install-and-use-cockpit-on-debianubuntu.html)
+- [How to Stick to a Specific Package Version on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/how-to-stick-to-specific-package.html)
 - [Creating Multiple Koha Instances with a Bash Script](https://libtechnophile.blogspot.com/2025/03/creating-multiple-koha-instances-with.html)
 - [Enabling Email Notifications in Easy!Appointments](https://libtechnophile.blogspot.com/2025/03/enabling-email-notifications-in.html)
 - [Upgrading In Out Management System to v6](https://libtechnophile.blogspot.com/2025/03/upgrading-in-out-management-system-to-v6.html)
-- [Koha SQL Reports: Circulation &amp; Cataloguing Actions by Staff](https://libtechnophile.blogspot.com/2025/03/koha-sql-reports-circulation.html)
-- [Streaming an IP Camera Feed Using VLC on Ubuntu](https://libtechnophile.blogspot.com/2025/03/streaming-ip-camera-feed-using-vlc-on.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
