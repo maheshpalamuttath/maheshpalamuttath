@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install and Configure Newt VPN Client on Linux](https://libtechnophile.blogspot.com/2025/04/install-and-configure-newt-vpn-client.html)
 - [Synchronizing Files with Unison on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/synchronizing-files-with-unison-on.html)
 - [Install and Use Cockpit on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/install-and-use-cockpit-on-debianubuntu.html)
 - [How to Stick to a Specific Package Version on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/how-to-stick-to-specific-package.html)
 - [Creating Multiple Koha Instances with a Bash Script](https://libtechnophile.blogspot.com/2025/03/creating-multiple-koha-instances-with.html)
-- [Enabling Email Notifications in Easy!Appointments](https://libtechnophile.blogspot.com/2025/03/enabling-email-notifications-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
