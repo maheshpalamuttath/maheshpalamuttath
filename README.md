@@ -60,7 +60,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Punctuation and Formatting in Koha Cataloguing](https://libtechnophile.blogspot.com/2025/04/automating-punctuation-and-formatting.html)
+- [Automate Case Formatting for MARC Fields in Koha](https://libtechnophile.blogspot.com/2025/04/automate-case-formatting-for-marc.html)
 - [Install and Configure Newt VPN Client on Linux](https://libtechnophile.blogspot.com/2025/04/install-and-configure-newt-vpn-client.html)
 - [Synchronizing Files with Unison on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/synchronizing-files-with-unison-on.html)
 - [Install and Use Cockpit on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/install-and-use-cockpit-on-debianubuntu.html)
