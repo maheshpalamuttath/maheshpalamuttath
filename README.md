@@ -60,7 +60,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Dynamic DNS Updates with Cloudflare API: A Simple Script](https://libtechnophile.blogspot.com/2025/04/automating-dynamic-dns-updates-with.html)
+- [Dynamic DNS for IPv6-Only Connections Using Cloudflare and Wildcard Domains](https://libtechnophile.blogspot.com/2025/04/dynamic-dns-for-ipv6-only-connections.html)
 - [Automate Case Formatting for MARC Fields in Koha](https://libtechnophile.blogspot.com/2025/04/automate-case-formatting-for-marc.html)
 - [Install and Configure Newt VPN Client on Linux](https://libtechnophile.blogspot.com/2025/04/install-and-configure-newt-vpn-client.html)
 - [Synchronizing Files with Unison on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/synchronizing-files-with-unison-on.html)
