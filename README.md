@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Docker on Debian/Ubuntu the Easy Way](https://libtechnophile.blogspot.com/2025/04/installing-docker-on-debianubuntu-easy.html)
 - [Securing SSH Access with Google Authenticator &lpar;TOTP&rpar; on Linux](https://libtechnophile.blogspot.com/2025/04/securing-ssh-access-with-google.html)
 - [Dynamic DNS for IPv6-Only Connections Using Cloudflare and Wildcard Domains](https://libtechnophile.blogspot.com/2025/04/dynamic-dns-for-ipv6-only-connections.html)
 - [Automate Case Formatting for MARC Fields in Koha](https://libtechnophile.blogspot.com/2025/04/automate-case-formatting-for-marc.html)
 - [Install and Configure Newt VPN Client on Linux](https://libtechnophile.blogspot.com/2025/04/install-and-configure-newt-vpn-client.html)
-- [Synchronizing Files with Unison on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/03/synchronizing-files-with-unison-on.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
