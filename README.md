@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Protecting Your Website with Apache2 Reverse Proxy and Basic Authentication](https://libtechnophile.blogspot.com/2025/04/protecting-your-website-with-apache2.html)
 - [Setting Up Paperless-ngx with Docker Compose](https://libtechnophile.blogspot.com/2025/04/setting-up-paperless-ngx-with-docker.html)
 - [Installing Docker on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/04/installing-docker-on-debianubuntu.html)
 - [Securing SSH Access with Google Authenticator &lpar;TOTP&rpar; on Linux](https://libtechnophile.blogspot.com/2025/04/securing-ssh-access-with-google.html)
 - [Dynamic DNS for IPv6-Only Connections Using Cloudflare and Wildcard Domains](https://libtechnophile.blogspot.com/2025/04/dynamic-dns-for-ipv6-only-connections.html)
-- [Automate Case Formatting for MARC Fields in Koha](https://libtechnophile.blogspot.com/2025/04/automate-case-formatting-for-marc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
