@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Homarr Dashboard](https://libtechnophile.blogspot.com/2025/04/installing-homarr-dashboard.html)
 - [Build Your Own Digital Library with LazyLibrarian](https://libtechnophile.blogspot.com/2025/04/build-your-own-digital-library-with.html)
 - [Setting Up Gotify for Push Notifications](https://libtechnophile.blogspot.com/2025/04/setting-up-gotify-for-push-notifications.html)
 - [Setting Up ntfy for Push Notifications](https://libtechnophile.blogspot.com/2025/04/setting-up-ntfy-for-push-notifications.html)
 - [Protecting Your Website with Apache2 Reverse Proxy and Basic Authentication](https://libtechnophile.blogspot.com/2025/04/protecting-your-website-with-apache2.html)
-- [Setting Up Paperless-ngx with Docker Compose](https://libtechnophile.blogspot.com/2025/04/setting-up-paperless-ngx-with-docker.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
