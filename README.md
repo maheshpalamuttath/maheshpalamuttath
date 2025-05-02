@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up NetBird – A WireGuard-Based Self-Hosted VPN  System](https://libtechnophile.blogspot.com/2025/05/setting-up-netbird-wireguard-based-self.html)
 - [Installing Homarr Dashboard](https://libtechnophile.blogspot.com/2025/04/installing-homarr-dashboard.html)
 - [Build Your Own Digital Library with LazyLibrarian](https://libtechnophile.blogspot.com/2025/04/build-your-own-digital-library-with.html)
 - [Setting Up Gotify for Push Notifications](https://libtechnophile.blogspot.com/2025/04/setting-up-gotify-for-push-notifications.html)
 - [Setting Up ntfy for Push Notifications](https://libtechnophile.blogspot.com/2025/04/setting-up-ntfy-for-push-notifications.html)
-- [Protecting Your Website with Apache2 Reverse Proxy and Basic Authentication](https://libtechnophile.blogspot.com/2025/04/protecting-your-website-with-apache2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
