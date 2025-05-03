@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Koha Database Backup to Dropbox on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/05/automating-koha-database-backup-to.html)
 - [Setting Up NetBird – A WireGuard-Based Self-Hosted VPN  System](https://libtechnophile.blogspot.com/2025/05/setting-up-netbird-wireguard-based-self.html)
 - [Installing Homarr Dashboard](https://libtechnophile.blogspot.com/2025/04/installing-homarr-dashboard.html)
 - [Build Your Own Digital Library with LazyLibrarian](https://libtechnophile.blogspot.com/2025/04/build-your-own-digital-library-with.html)
 - [Setting Up Gotify for Push Notifications](https://libtechnophile.blogspot.com/2025/04/setting-up-gotify-for-push-notifications.html)
-- [Setting Up ntfy for Push Notifications](https://libtechnophile.blogspot.com/2025/04/setting-up-ntfy-for-push-notifications.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
