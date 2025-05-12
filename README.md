@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AnduinOS: A Seamless Transition from Windows to Linux](https://libtechnophile.blogspot.com/2025/05/anduinos-seamless-transition-from.html)
 - [GNOME Boxes: Lightweight Virtualization Made Easy on Linux](https://libtechnophile.blogspot.com/2025/05/gnome-boxes-lightweight-virtualization.html)
 - [Bringing the Xubuntu Look to Debian XFCE](https://libtechnophile.blogspot.com/2025/05/bringing-xubuntu-look-to-debian-xfce.html)
 - [Automating Koha Database Backup to Dropbox on Debian/Ubuntu](https://libtechnophile.blogspot.com/2025/05/automating-koha-database-backup-to.html)
 - [Setting Up NetBird – A WireGuard-Based Self-Hosted VPN  System](https://libtechnophile.blogspot.com/2025/05/setting-up-netbird-wireguard-based-self.html)
-- [Installing Homarr Dashboard](https://libtechnophile.blogspot.com/2025/04/installing-homarr-dashboard.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
