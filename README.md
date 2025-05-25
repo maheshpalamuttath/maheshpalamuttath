@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install VLC Media Player on Debian via Flatpak](https://libtechnophile.blogspot.com/2025/05/install-vlc-media-player-on-debian-via.html)
 - [Install AnyDesk on Debian/Ubuntu in Seconds](https://libtechnophile.blogspot.com/2025/05/install-anydesk-on-debianubuntu-in.html)
 - [Streaming RTSP Camera Over NetBird Using socat](https://libtechnophile.blogspot.com/2025/05/streaming-rtsp-camera-over-netbird.html)
 - [How to Set Up WhatsApp HTTP API for Sending Messages Programmatically](https://libtechnophile.blogspot.com/2025/05/how-to-set-up-whatsapp-http-api-for.html)
 - [AnduinOS: A Seamless Transition from Windows to Linux](https://libtechnophile.blogspot.com/2025/05/anduinos-seamless-transition-from.html)
-- [GNOME Boxes: Lightweight Virtualization Made Easy on Linux](https://libtechnophile.blogspot.com/2025/05/gnome-boxes-lightweight-virtualization.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
