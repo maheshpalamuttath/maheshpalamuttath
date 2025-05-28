@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Command-Line Login to Network &lpar;No GUI Required&rpar;](https://libtechnophile.blogspot.com/2025/05/command-line-login-to-network-no-gui.html)
 - [Creating Virtual Machines on Linux with Virt-Manager](https://libtechnophile.blogspot.com/2025/05/creating-virtual-machines-on-linux-with.html)
 - [Install VLC Media Player on Debian via Flatpak](https://libtechnophile.blogspot.com/2025/05/install-vlc-media-player-on-debian-via.html)
 - [Install AnyDesk on Debian/Ubuntu in Seconds](https://libtechnophile.blogspot.com/2025/05/install-anydesk-on-debianubuntu-in.html)
 - [Streaming RTSP Camera Over NetBird Using socat](https://libtechnophile.blogspot.com/2025/05/streaming-rtsp-camera-over-netbird.html)
-- [How to Set Up WhatsApp HTTP API for Sending Messages Programmatically](https://libtechnophile.blogspot.com/2025/05/how-to-set-up-whatsapp-http-api-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
