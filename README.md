@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [UPI-Based Fine Payments in Koha with UTR Number Tracking](https://libtechnophile.blogspot.com/2025/06/upi-based-fine-payments-in-koha-with.html)
 - [Connecting Machines to NetBird Mesh Network](https://libtechnophile.blogspot.com/2025/06/connecting-machines-to-netbird-mesh.html)
 - [Efficient Library Stock Verification Using Koha and Google Sheets](https://libtechnophile.blogspot.com/2025/06/efficient-library-stock-verification.html)
 - [Install Brave browser on Debian/Ubuntu via Official Repository](https://libtechnophile.blogspot.com/2025/05/install-brave-browser-on-debianubuntu.html)
 - [Command-Line Login to Network &lpar;No GUI Required&rpar;](https://libtechnophile.blogspot.com/2025/05/command-line-login-to-network-no-gui.html)
-- [Creating Virtual Machines on Linux with Virt-Manager](https://libtechnophile.blogspot.com/2025/05/creating-virtual-machines-on-linux-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
