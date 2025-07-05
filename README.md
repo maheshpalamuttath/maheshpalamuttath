@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Merging Multiple Excel Files into One Using Python](https://libtechnophile.blogspot.com/2025/07/merging-multiple-excel-files-into-one.html)
 - [DIY Low-Cost CCTV System Using Raspberry Pi, Shinobi &amp; Jellyfin](https://libtechnophile.blogspot.com/2025/06/diy-low-cost-cctv-system-using.html)
 - [UPI-Based Fine Payments in Koha with UTR Number Tracking](https://libtechnophile.blogspot.com/2025/06/upi-based-fine-payments-in-koha-with.html)
 - [Connecting Machines to NetBird Mesh Network](https://libtechnophile.blogspot.com/2025/06/connecting-machines-to-netbird-mesh.html)
 - [Efficient Library Stock Verification Using Koha and Google Sheets](https://libtechnophile.blogspot.com/2025/06/efficient-library-stock-verification.html)
-- [Install Brave browser on Debian/Ubuntu via Official Repository](https://libtechnophile.blogspot.com/2025/05/install-brave-browser-on-debianubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
