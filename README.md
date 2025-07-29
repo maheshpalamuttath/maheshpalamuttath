@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Auto-Start Firefox on Raspberry Pi](https://libtechnophile.blogspot.com/2025/07/how-to-auto-start-firefox-on-raspberry.html)
 - [Merging Multiple Excel Files into One Using Python](https://libtechnophile.blogspot.com/2025/07/merging-multiple-excel-files-into-one.html)
 - [DIY Low-Cost CCTV System Using Raspberry Pi, Shinobi &amp; Jellyfin](https://libtechnophile.blogspot.com/2025/06/diy-low-cost-cctv-system-using.html)
 - [UPI-Based Fine Payments in Koha with UTR Number Tracking](https://libtechnophile.blogspot.com/2025/06/upi-based-fine-payments-in-koha-with.html)
 - [Connecting Machines to NetBird Mesh Network](https://libtechnophile.blogspot.com/2025/06/connecting-machines-to-netbird-mesh.html)
-- [Efficient Library Stock Verification Using Koha and Google Sheets](https://libtechnophile.blogspot.com/2025/06/efficient-library-stock-verification.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
