@@ -71,7 +71,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [A Sunday in My Life](https://www.youtube.com/watch?v=FB17Pd0TOCw)
+- [A Sunday in My Life](https://www.youtube.com/watch?v=lGCZp6peP98)
 - [UPI-Based Fine Payments in Koha with UTR Number Tracking](https://www.youtube.com/watch?v=Vj2swpnSTng)
 - [Library Stock Verification Using Koha and Google Sheets](https://www.youtube.com/watch?v=YaxHWWiiWZ8)
 - [AnduinOS: A Seamless Transition from Windows to Linux](https://www.youtube.com/watch?v=mDqeB6XdHX8)
