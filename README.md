@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install XRDP on Debian 12 with XFC](https://libtechnophile.blogspot.com/2025/09/how-to-install-xrdp-on-debian-12-with.html)
 - [How to Mount an External Drive on Linux and Share It with Samba](https://libtechnophile.blogspot.com/2025/08/how-to-mount-external-drive-on-linux.html)
 - [How to Auto-Start Firefox on Raspberry Pi](https://libtechnophile.blogspot.com/2025/07/how-to-auto-start-firefox-on-raspberry.html)
 - [Merging Multiple Excel Files into One Using Python](https://libtechnophile.blogspot.com/2025/07/merging-multiple-excel-files-into-one.html)
 - [DIY Low-Cost CCTV System Using Raspberry Pi, Shinobi &amp; Jellyfin](https://libtechnophile.blogspot.com/2025/06/diy-low-cost-cctv-system-using.html)
-- [UPI-Based Fine Payments in Koha with UTR Number Tracking](https://libtechnophile.blogspot.com/2025/06/upi-based-fine-payments-in-koha-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
