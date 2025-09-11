@@ -71,11 +71,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My Homelab Tour](https://www.youtube.com/watch?v=qICabgvk-ks)
 - [A Sunday in My Life](https://www.youtube.com/watch?v=lGCZp6peP98)
 - [UPI-Based Fine Payments in Koha with UTR Number Tracking](https://www.youtube.com/watch?v=Vj2swpnSTng)
 - [Library Stock Verification Using Koha and Google Sheets](https://www.youtube.com/watch?v=YaxHWWiiWZ8)
 - [AnduinOS: A Seamless Transition from Windows to Linux](https://www.youtube.com/watch?v=mDqeB6XdHX8)
-- [Export, Rename, Compress &amp; Zip Koha Patron Images Automatically &lpar;Python Script&rpar;](https://www.youtube.com/watch?v=lHaahkhzM_A)
 <!-- YOUTUBE:END -->
 
 ---
