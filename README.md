@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [test](https://libtechnophile.blogspot.com/2025/10/test.html)
 - [Auto-Fix Display Resolution and Rotation on Xubuntu for Xibo Signage](https://libtechnophile.blogspot.com/2025/09/auto-fix-display-resolution-and.html)
 - [Installing Firefox ESR on Ubuntu &lpar;Without Snap&rpar;](https://libtechnophile.blogspot.com/2025/09/installing-firefox-esr-on-ubuntu.html)
 - [How to Install XRDP on Debian 12 with XFCE](https://libtechnophile.blogspot.com/2025/09/how-to-install-xrdp-on-debian-12-with.html)
 - [How to Mount an External Drive on Linux and Share It with Samba](https://libtechnophile.blogspot.com/2025/08/how-to-mount-external-drive-on-linux.html)
-- [How to Auto-Start Firefox on Raspberry Pi](https://libtechnophile.blogspot.com/2025/07/how-to-auto-start-firefox-on-raspberry.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
