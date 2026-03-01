@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ghgifg](https://libtechnophile.blogspot.com/2026/03/ghgifg.html)
 - [Setting Up a Digital Signage System for Libraries using Anthias on Debian](https://libtechnophile.blogspot.com/2025/10/setting-up-digital-signage-system-for.html)
 - [Auto-Fix Display Resolution and Rotation on Xubuntu for Xibo Signage](https://libtechnophile.blogspot.com/2025/09/auto-fix-display-resolution-and.html)
 - [Installing Firefox ESR on Ubuntu &lpar;Without Snap&rpar;](https://libtechnophile.blogspot.com/2025/09/installing-firefox-esr-on-ubuntu.html)
 - [How to Install XRDP on Debian 12 with XFCE](https://libtechnophile.blogspot.com/2025/09/how-to-install-xrdp-on-debian-12-with.html)
-- [How to Mount an External Drive on Linux and Share It with Samba](https://libtechnophile.blogspot.com/2025/08/how-to-mount-external-drive-on-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
