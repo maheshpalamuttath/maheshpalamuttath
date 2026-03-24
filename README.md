@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Restricting Issue of Newly Added Books in Koha for One Week &lpar;Automated Method&rpar;](https://libtechnophile.blogspot.com/2026/03/restricting-issue-of-newly-added-books.html)
 - [From Google Form to Koha: Automating Patron Photo Processing](https://libtechnophile.blogspot.com/2026/03/from-google-form-to-koha-automating.html)
 - [Setting Up a Digital Signage System for Libraries using Anthias on Debian](https://libtechnophile.blogspot.com/2025/10/setting-up-digital-signage-system-for.html)
 - [Auto-Fix Display Resolution and Rotation on Xubuntu for Xibo Signage](https://libtechnophile.blogspot.com/2025/09/auto-fix-display-resolution-and.html)
 - [Installing Firefox ESR on Ubuntu &lpar;Without Snap&rpar;](https://libtechnophile.blogspot.com/2025/09/installing-firefox-esr-on-ubuntu.html)
-- [How to Install XRDP on Debian 12 with XFCE](https://libtechnophile.blogspot.com/2025/09/how-to-install-xrdp-on-debian-12-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
