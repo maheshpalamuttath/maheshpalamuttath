@@ -1,7 +1,7 @@
 ### Hi there, I'm Mahesh Palamuttath - [website] 👋
 
 ## LINUX, FOSS AND LIBRARY TECHNOLOGY ENTHUSIAST!
-- 🔭 I’m the CEO & Founder of OpenSio Software Solutions
+- 🔭 I’m the Founder of OpenSio Software Solutions
 - 🌱 I’m focusing on Free and Open-Source Software and its services
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: Contribute more to Open Source projects
