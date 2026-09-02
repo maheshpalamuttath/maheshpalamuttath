@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databasement: A Self-Hosted Database Backup Manager with WebGUI](https://libtechnophile.blogspot.com/2026/09/databasement-self-hosted-database.html)
 - [Managing Multiple Ubuntu Computers with Ansible](https://libtechnophile.blogspot.com/2026/08/managing-multiple-ubuntu-computers-with.html)
 - [Simplifying Restic Backups with Zerobyte](https://libtechnophile.blogspot.com/2026/08/simplifying-restic-backups-with-zerobyte.html)
 - [Getting Started with Restic: A Beginner&#39;s Guide to Secure Backups on Linux](https://libtechnophile.blogspot.com/2026/07/getting-started-with-restic-beginners.html)
 - [Getting Started with the Koha Bulk Image Tool](https://libtechnophile.blogspot.com/2026/06/getting-started-with-koha-bulk-image.html)
-- [Install LibreOffice Writer and Calc on Debian/Ubuntu](https://libtechnophile.blogspot.com/2026/05/install-libreoffice-writer-and-calc-on.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
