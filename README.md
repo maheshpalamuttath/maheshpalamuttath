@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing virt-manager on Debian/Ubuntu and Managing VMs Remotely via SSH](https://libtechnophile.blogspot.com/2026/10/installing-virt-manager-on-debianubuntu.html)
 - [Extracting Images from Multiple ZIP Files in Linux](https://libtechnophile.blogspot.com/2026/09/extracting-images-from-multiple-zip.html)
 - [Recovering Data from ZeroByte/Restic Backups](https://libtechnophile.blogspot.com/2026/09/recovering-data-from-zerobyterestic.html)
 - [Using Filen with Rclone on Debian/Ubuntu](https://libtechnophile.blogspot.com/2026/09/using-filen-with-rclone-on-debianubuntu.html)
 - [Databasement: A Self-Hosted Database Backup Manager with WebGUI](https://libtechnophile.blogspot.com/2026/09/databasement-self-hosted-database.html)
-- [Managing Multiple Ubuntu Computers with Ansible](https://libtechnophile.blogspot.com/2026/08/managing-multiple-ubuntu-computers-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
