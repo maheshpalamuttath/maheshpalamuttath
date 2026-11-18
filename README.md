@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Preparing an External Hard Disk for Linux: Formatting with EXT4](https://libtechnophile.blogspot.com/2026/11/preparing-external-hard-disk-for-linux.html)
 - [Install and Set Up Omeka S on Debian/Ubuntu](https://libtechnophile.blogspot.com/2026/10/install-and-set-up-omeka-s-on.html)
 - [Installing Virt-Manager on Debian/Ubuntu and Managing VMs Remotely via SSH](https://libtechnophile.blogspot.com/2026/10/installing-virt-manager-on-debianubuntu.html)
 - [Extracting Images from Multiple ZIP Files in Linux](https://libtechnophile.blogspot.com/2026/09/extracting-images-from-multiple-zip.html)
 - [Recovering Data from ZeroByte/Restic Backups](https://libtechnophile.blogspot.com/2026/09/recovering-data-from-zerobyterestic.html)
-- [Using Filen with Rclone on Debian/Ubuntu](https://libtechnophile.blogspot.com/2026/09/using-filen-with-rclone-on-debianubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
